@@ -1,2 +1,5 @@
 *.upk filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.udk filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 80c7583a3d564015427c98ec847832366c13bb45
